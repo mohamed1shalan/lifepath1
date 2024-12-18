@@ -87,3 +87,9 @@ html,body{
     padding: 20px 0 30px;
     color: rgb(106, 106, 246);
 }
+@media (max-width:450px) {
+    .sign_in_box{
+        width: 300px;
+        left:calc(50% - 150px);
+    }
+}
