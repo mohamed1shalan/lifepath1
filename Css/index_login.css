@@ -1,6 +1,7 @@
 *{
     font-family: sans-serif;
-}:root{
+}
+:root{
     --width_Box_sign_In--:400px;
     --height_Box_sign_In--:fit-content;
 }
