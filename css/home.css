@@ -105,4 +105,12 @@ a{
     .BOx_Data_image{
         width: 100%;
     }
+    .box_image {
+    width: 230px;
+    height: 151px;
+    background-color: antiquewhite;
+    background-size: cover;
+    background-position: center;
+    margin: 15px 0;
+}
 }
