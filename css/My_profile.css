@@ -45,7 +45,7 @@ a{
     align-items: center;
 }
 .containrr_1{
-    width: 30%;
+    min-width:  30%;
 }
 .user_image_box{
     width:200px;
@@ -123,3 +123,13 @@ select{
     margin: 0;
     padding: 10px 0;
 }
+@media (max-width:650px) {
+    .user_info{
+        display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+    .containrr_2{
+        margin-top: 30px;
+    }
+        }
